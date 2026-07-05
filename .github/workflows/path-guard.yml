@@ -1,0 +1,66 @@
+name: Path Guard
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, labeled, unlabeled]
+    branches: [main]
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
+    steps:
+      - name: Check changed paths and approval label
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          REPO="${{ github.repository }}"
+          PR_NUMBER="${{ github.event.pull_request.number }}"
+
+          FILES="$(gh api "repos/$REPO/pulls/$PR_NUMBER/files" --paginate --jq '.[].filename')"
+          echo "Changed files:"
+          echo "$FILES"
+
+          # Only plain data files (csv/json) under data/ auto-clear. Code - scripts, workflows,
+          # anything else in the repo - is a behavior change, not a data correction, and needs
+          # the same manual sign-off as prompts/docs did in Market-Data.
+          OUTSIDE_DATA="$(echo "$FILES" | grep -vE '^data/[^/]+\.(csv|json)$' || true)"
+
+          if [ -z "$OUTSIDE_DATA" ]; then
+            echo "All changes are plain data files under data/ - auto-approved."
+            exit 0
+          fi
+
+          echo "Changes touch code or paths outside data/*.csv|json:"
+          echo "$OUTSIDE_DATA"
+
+          LABELS="$(gh api "repos/$REPO/issues/$PR_NUMBER/labels" --jq '.[].name')"
+          if echo "$LABELS" | grep -qx "operator-approved"; then
+            echo "operator-approved label present - allowing merge."
+            exit 0
+          fi
+
+          echo "BLOCKED: code/non-data changes require the operator-approved label."
+          exit 1
+
+  auto-merge:
+    needs: guard
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Merge now that guard has passed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          for i in 1 2 3 4 5; do
+            if gh pr merge "${{ github.event.pull_request.number }}" --repo "${{ github.repository }}" --merge; then
+              exit 0
+            fi
+            sleep 5
+          done
+          exit 1

@@ -1,0 +1,2334 @@
+{
+  "batches": [
+    {
+      "end": 100,
+      "finished_at": "2026-07-05T15:11:40Z",
+      "rows": 100,
+      "start": 0,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 5,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 94
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 200,
+      "finished_at": "2026-07-05T15:11:43Z",
+      "rows": 100,
+      "start": 100,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 5,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 94
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 300,
+      "finished_at": "2026-07-05T15:11:46Z",
+      "rows": 100,
+      "start": 200,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_MARKET_CAP": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 400,
+      "finished_at": "2026-07-05T15:11:49Z",
+      "rows": 100,
+      "start": 300,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 500,
+      "finished_at": "2026-07-05T15:11:53Z",
+      "rows": 100,
+      "start": 400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 96
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 600,
+      "finished_at": "2026-07-05T15:11:55Z",
+      "rows": 100,
+      "start": 500,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 700,
+      "finished_at": "2026-07-05T15:11:58Z",
+      "rows": 100,
+      "start": 600,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 800,
+      "finished_at": "2026-07-05T15:12:02Z",
+      "rows": 100,
+      "start": 700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 3,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 96
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 900,
+      "finished_at": "2026-07-05T15:12:05Z",
+      "rows": 100,
+      "start": 800,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1000,
+      "finished_at": "2026-07-05T15:12:08Z",
+      "rows": 100,
+      "start": 900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1100,
+      "finished_at": "2026-07-05T15:12:11Z",
+      "rows": 100,
+      "start": 1000,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1200,
+      "finished_at": "2026-07-05T15:12:14Z",
+      "rows": 100,
+      "start": 1100,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1300,
+      "finished_at": "2026-07-05T15:12:17Z",
+      "rows": 100,
+      "start": 1200,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 9,
+        "POPULATED_MARKET_CAP": 91
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1400,
+      "finished_at": "2026-07-05T15:12:20Z",
+      "rows": 100,
+      "start": 1300,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1500,
+      "finished_at": "2026-07-05T15:12:24Z",
+      "rows": 100,
+      "start": 1400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 6,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 93
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1600,
+      "finished_at": "2026-07-05T15:12:27Z",
+      "rows": 100,
+      "start": 1500,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1700,
+      "finished_at": "2026-07-05T15:12:30Z",
+      "rows": 100,
+      "start": 1600,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 3,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 96
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1800,
+      "finished_at": "2026-07-05T15:12:33Z",
+      "rows": 100,
+      "start": 1700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 3,
+        "POPULATED_MARKET_CAP": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 1900,
+      "finished_at": "2026-07-05T15:12:36Z",
+      "rows": 100,
+      "start": 1800,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 10,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 88
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2000,
+      "finished_at": "2026-07-05T15:12:40Z",
+      "rows": 100,
+      "start": 1900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 8,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 91
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2100,
+      "finished_at": "2026-07-05T15:12:43Z",
+      "rows": 100,
+      "start": 2000,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "POPULATED_AUM": 84,
+        "POPULATED_MARKET_CAP": 15
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2200,
+      "finished_at": "2026-07-05T15:12:46Z",
+      "rows": 100,
+      "start": 2100,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_AUM": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2300,
+      "finished_at": "2026-07-05T15:12:49Z",
+      "rows": 100,
+      "start": 2200,
+      "status_counts": {
+        "POPULATED_AUM": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2400,
+      "finished_at": "2026-07-05T15:12:52Z",
+      "rows": 100,
+      "start": 2300,
+      "status_counts": {
+        "MISSING_AUM": 1,
+        "POPULATED_AUM": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2500,
+      "finished_at": "2026-07-05T15:12:56Z",
+      "rows": 100,
+      "start": 2400,
+      "status_counts": {
+        "MISSING_AUM": 2,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2600,
+      "finished_at": "2026-07-05T15:12:59Z",
+      "rows": 100,
+      "start": 2500,
+      "status_counts": {
+        "MISSING_AUM": 1,
+        "MISSING_MARKET_CAP": 4,
+        "POPULATED_AUM": 43,
+        "POPULATED_MARKET_CAP": 52
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2700,
+      "finished_at": "2026-07-05T15:13:03Z",
+      "rows": 100,
+      "start": 2600,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 22,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 77
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2800,
+      "finished_at": "2026-07-05T15:13:06Z",
+      "rows": 100,
+      "start": 2700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 7,
+        "POPULATED_MARKET_CAP": 93
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 2900,
+      "finished_at": "2026-07-05T15:13:10Z",
+      "rows": 100,
+      "start": 2800,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 7,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 92
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3000,
+      "finished_at": "2026-07-05T15:13:13Z",
+      "rows": 100,
+      "start": 2900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 8,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 91
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3100,
+      "finished_at": "2026-07-05T15:13:16Z",
+      "rows": 100,
+      "start": 3000,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 10,
+        "NO_YAHOO_QUOTE": 4,
+        "POPULATED_MARKET_CAP": 86
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3200,
+      "finished_at": "2026-07-05T15:13:19Z",
+      "rows": 100,
+      "start": 3100,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 6,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 92
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3300,
+      "finished_at": "2026-07-05T15:13:22Z",
+      "rows": 100,
+      "start": 3200,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 5,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 94
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3400,
+      "finished_at": "2026-07-05T15:13:26Z",
+      "rows": 100,
+      "start": 3300,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3500,
+      "finished_at": "2026-07-05T15:13:29Z",
+      "rows": 100,
+      "start": 3400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 5,
+        "POPULATED_MARKET_CAP": 95
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3600,
+      "finished_at": "2026-07-05T15:13:32Z",
+      "rows": 100,
+      "start": 3500,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 4,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 95
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3700,
+      "finished_at": "2026-07-05T15:13:35Z",
+      "rows": 100,
+      "start": 3600,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 19,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 80
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3800,
+      "finished_at": "2026-07-05T15:13:38Z",
+      "rows": 100,
+      "start": 3700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 3,
+        "POPULATED_MARKET_CAP": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 3900,
+      "finished_at": "2026-07-05T15:13:42Z",
+      "rows": 100,
+      "start": 3800,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 16,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 83
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4000,
+      "finished_at": "2026-07-05T15:13:45Z",
+      "rows": 100,
+      "start": 3900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 13,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 86
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4100,
+      "finished_at": "2026-07-05T15:13:49Z",
+      "rows": 100,
+      "start": 4000,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 19,
+        "POPULATED_MARKET_CAP": 81
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4200,
+      "finished_at": "2026-07-05T15:13:52Z",
+      "rows": 100,
+      "start": 4100,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 12,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 86
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4300,
+      "finished_at": "2026-07-05T15:13:55Z",
+      "rows": 100,
+      "start": 4200,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 11,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 88
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4400,
+      "finished_at": "2026-07-05T15:13:58Z",
+      "rows": 100,
+      "start": 4300,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 10,
+        "POPULATED_MARKET_CAP": 90
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4500,
+      "finished_at": "2026-07-05T15:14:01Z",
+      "rows": 100,
+      "start": 4400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 9,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 90
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4600,
+      "finished_at": "2026-07-05T15:14:04Z",
+      "rows": 100,
+      "start": 4500,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 32,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 67
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4700,
+      "finished_at": "2026-07-05T15:14:08Z",
+      "rows": 100,
+      "start": 4600,
+      "status_counts": {
+        "MISSING_AUM": 1,
+        "MISSING_MARKET_CAP": 12,
+        "POPULATED_AUM": 19,
+        "POPULATED_MARKET_CAP": 68
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4800,
+      "finished_at": "2026-07-05T15:14:11Z",
+      "rows": 100,
+      "start": 4700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 96
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 4900,
+      "finished_at": "2026-07-05T15:14:14Z",
+      "rows": 100,
+      "start": 4800,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5000,
+      "finished_at": "2026-07-05T15:14:18Z",
+      "rows": 100,
+      "start": 4900,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5100,
+      "finished_at": "2026-07-05T15:14:21Z",
+      "rows": 100,
+      "start": 5000,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5200,
+      "finished_at": "2026-07-05T15:14:25Z",
+      "rows": 100,
+      "start": 5100,
+      "status_counts": {
+        "MISSING_AUM": 28,
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 5,
+        "POPULATED_AUM": 20,
+        "POPULATED_MARKET_CAP": 46
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5300,
+      "finished_at": "2026-07-05T15:14:28Z",
+      "rows": 100,
+      "start": 5200,
+      "status_counts": {
+        "MISSING_AUM": 39,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 60
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5400,
+      "finished_at": "2026-07-05T15:14:31Z",
+      "rows": 100,
+      "start": 5300,
+      "status_counts": {
+        "MISSING_AUM": 57,
+        "POPULATED_AUM": 43
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5500,
+      "finished_at": "2026-07-05T15:14:34Z",
+      "rows": 100,
+      "start": 5400,
+      "status_counts": {
+        "MISSING_AUM": 41,
+        "POPULATED_AUM": 59
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5600,
+      "finished_at": "2026-07-05T15:14:37Z",
+      "rows": 100,
+      "start": 5500,
+      "status_counts": {
+        "MISSING_AUM": 25,
+        "POPULATED_AUM": 75
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5700,
+      "finished_at": "2026-07-05T15:14:48Z",
+      "rows": 100,
+      "start": 5600,
+      "status_counts": {
+        "MISSING_AUM": 21,
+        "POPULATED_AUM": 79
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5800,
+      "finished_at": "2026-07-05T15:14:51Z",
+      "rows": 100,
+      "start": 5700,
+      "status_counts": {
+        "MISSING_AUM": 20,
+        "POPULATED_AUM": 80
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 5900,
+      "finished_at": "2026-07-05T15:14:54Z",
+      "rows": 100,
+      "start": 5800,
+      "status_counts": {
+        "MISSING_AUM": 40,
+        "POPULATED_AUM": 60
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6000,
+      "finished_at": "2026-07-05T15:14:58Z",
+      "rows": 100,
+      "start": 5900,
+      "status_counts": {
+        "MISSING_AUM": 34,
+        "POPULATED_AUM": 66
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6100,
+      "finished_at": "2026-07-05T15:15:01Z",
+      "rows": 100,
+      "start": 6000,
+      "status_counts": {
+        "MISSING_AUM": 35,
+        "POPULATED_AUM": 65
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6200,
+      "finished_at": "2026-07-05T15:15:04Z",
+      "rows": 100,
+      "start": 6100,
+      "status_counts": {
+        "MISSING_AUM": 37,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 62
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6300,
+      "finished_at": "2026-07-05T15:15:07Z",
+      "rows": 100,
+      "start": 6200,
+      "status_counts": {
+        "MISSING_AUM": 39,
+        "POPULATED_AUM": 61
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6400,
+      "finished_at": "2026-07-05T15:15:10Z",
+      "rows": 100,
+      "start": 6300,
+      "status_counts": {
+        "MISSING_AUM": 41,
+        "POPULATED_AUM": 59
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6500,
+      "finished_at": "2026-07-05T15:15:14Z",
+      "rows": 100,
+      "start": 6400,
+      "status_counts": {
+        "MISSING_AUM": 54,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_AUM": 44
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6600,
+      "finished_at": "2026-07-05T15:15:17Z",
+      "rows": 100,
+      "start": 6500,
+      "status_counts": {
+        "MISSING_AUM": 55,
+        "POPULATED_AUM": 45
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6700,
+      "finished_at": "2026-07-05T15:15:20Z",
+      "rows": 100,
+      "start": 6600,
+      "status_counts": {
+        "MISSING_AUM": 15,
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 4,
+        "POPULATED_AUM": 18,
+        "POPULATED_MARKET_CAP": 62
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6800,
+      "finished_at": "2026-07-05T15:15:23Z",
+      "rows": 100,
+      "start": 6700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 6900,
+      "finished_at": "2026-07-05T15:15:26Z",
+      "rows": 100,
+      "start": 6800,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 6,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 92
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7000,
+      "finished_at": "2026-07-05T15:15:29Z",
+      "rows": 100,
+      "start": 6900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_MARKET_CAP": 96
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7100,
+      "finished_at": "2026-07-05T15:15:33Z",
+      "rows": 100,
+      "start": 7000,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7200,
+      "finished_at": "2026-07-05T15:15:36Z",
+      "rows": 100,
+      "start": 7100,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 6,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 92
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7300,
+      "finished_at": "2026-07-05T15:15:39Z",
+      "rows": 100,
+      "start": 7200,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 10,
+        "NO_YAHOO_QUOTE": 10,
+        "POPULATED_MARKET_CAP": 80
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7400,
+      "finished_at": "2026-07-05T15:15:43Z",
+      "rows": 100,
+      "start": 7300,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 22,
+        "POPULATED_MARKET_CAP": 78
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7500,
+      "finished_at": "2026-07-05T15:15:46Z",
+      "rows": 100,
+      "start": 7400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 11,
+        "POPULATED_MARKET_CAP": 89
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7600,
+      "finished_at": "2026-07-05T15:15:49Z",
+      "rows": 100,
+      "start": 7500,
+      "status_counts": {
+        "MISSING_AUM": 1,
+        "MISSING_MARKET_CAP": 5,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 92
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7700,
+      "finished_at": "2026-07-05T15:15:52Z",
+      "rows": 100,
+      "start": 7600,
+      "status_counts": {
+        "MISSING_AUM": 24,
+        "POPULATED_AUM": 76
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7800,
+      "finished_at": "2026-07-05T15:15:55Z",
+      "rows": 100,
+      "start": 7700,
+      "status_counts": {
+        "MISSING_AUM": 22,
+        "POPULATED_AUM": 78
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 7900,
+      "finished_at": "2026-07-05T15:15:58Z",
+      "rows": 100,
+      "start": 7800,
+      "status_counts": {
+        "MISSING_AUM": 44,
+        "POPULATED_AUM": 56
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8000,
+      "finished_at": "2026-07-05T15:16:01Z",
+      "rows": 100,
+      "start": 7900,
+      "status_counts": {
+        "MISSING_AUM": 36,
+        "POPULATED_AUM": 64
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8100,
+      "finished_at": "2026-07-05T15:16:05Z",
+      "rows": 100,
+      "start": 8000,
+      "status_counts": {
+        "MISSING_AUM": 1,
+        "MISSING_MARKET_CAP": 11,
+        "NO_YAHOO_QUOTE": 14,
+        "POPULATED_AUM": 5,
+        "POPULATED_MARKET_CAP": 69
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8200,
+      "finished_at": "2026-07-05T15:16:08Z",
+      "rows": 100,
+      "start": 8100,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 3,
+        "NO_YAHOO_QUOTE": 15,
+        "POPULATED_MARKET_CAP": 82
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8300,
+      "finished_at": "2026-07-05T15:16:12Z",
+      "rows": 100,
+      "start": 8200,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 17,
+        "POPULATED_MARKET_CAP": 82
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8400,
+      "finished_at": "2026-07-05T15:16:15Z",
+      "rows": 100,
+      "start": 8300,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "NO_YAHOO_QUOTE": 14,
+        "POPULATED_MARKET_CAP": 84
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8500,
+      "finished_at": "2026-07-05T15:16:18Z",
+      "rows": 100,
+      "start": 8400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8600,
+      "finished_at": "2026-07-05T15:16:21Z",
+      "rows": 100,
+      "start": 8500,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 7,
+        "POPULATED_AUM": 5,
+        "POPULATED_MARKET_CAP": 88
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8700,
+      "finished_at": "2026-07-05T15:16:25Z",
+      "rows": 100,
+      "start": 8600,
+      "status_counts": {
+        "MISSING_AUM": 22,
+        "MISSING_MARKET_CAP": 1,
+        "POPULATED_AUM": 61,
+        "POPULATED_MARKET_CAP": 16
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8800,
+      "finished_at": "2026-07-05T15:16:28Z",
+      "rows": 100,
+      "start": 8700,
+      "status_counts": {
+        "MISSING_AUM": 28,
+        "POPULATED_AUM": 72
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 8900,
+      "finished_at": "2026-07-05T15:16:32Z",
+      "rows": 100,
+      "start": 8800,
+      "status_counts": {
+        "MISSING_AUM": 31,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 29,
+        "POPULATED_MARKET_CAP": 39
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9000,
+      "finished_at": "2026-07-05T15:16:35Z",
+      "rows": 100,
+      "start": 8900,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9100,
+      "finished_at": "2026-07-05T15:16:38Z",
+      "rows": 100,
+      "start": 9000,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9200,
+      "finished_at": "2026-07-05T15:16:41Z",
+      "rows": 100,
+      "start": 9100,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9300,
+      "finished_at": "2026-07-05T15:16:44Z",
+      "rows": 100,
+      "start": 9200,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9400,
+      "finished_at": "2026-07-05T15:16:47Z",
+      "rows": 100,
+      "start": 9300,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9500,
+      "finished_at": "2026-07-05T15:16:50Z",
+      "rows": 100,
+      "start": 9400,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9600,
+      "finished_at": "2026-07-05T15:16:53Z",
+      "rows": 100,
+      "start": 9500,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9700,
+      "finished_at": "2026-07-05T15:16:56Z",
+      "rows": 100,
+      "start": 9600,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9800,
+      "finished_at": "2026-07-05T15:17:00Z",
+      "rows": 100,
+      "start": 9700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 9900,
+      "finished_at": "2026-07-05T15:17:03Z",
+      "rows": 100,
+      "start": 9800,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10000,
+      "finished_at": "2026-07-05T15:17:06Z",
+      "rows": 100,
+      "start": 9900,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10100,
+      "finished_at": "2026-07-05T15:17:09Z",
+      "rows": 100,
+      "start": 10000,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10200,
+      "finished_at": "2026-07-05T15:17:12Z",
+      "rows": 100,
+      "start": 10100,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10300,
+      "finished_at": "2026-07-05T15:17:15Z",
+      "rows": 100,
+      "start": 10200,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10400,
+      "finished_at": "2026-07-05T15:17:18Z",
+      "rows": 100,
+      "start": 10300,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10500,
+      "finished_at": "2026-07-05T15:17:21Z",
+      "rows": 100,
+      "start": 10400,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10600,
+      "finished_at": "2026-07-05T15:17:24Z",
+      "rows": 100,
+      "start": 10500,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10700,
+      "finished_at": "2026-07-05T15:17:28Z",
+      "rows": 100,
+      "start": 10600,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10800,
+      "finished_at": "2026-07-05T15:17:31Z",
+      "rows": 100,
+      "start": 10700,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 10900,
+      "finished_at": "2026-07-05T15:17:34Z",
+      "rows": 100,
+      "start": 10800,
+      "status_counts": {
+        "POPULATED_AUM": 72,
+        "POPULATED_MARKET_CAP": 28
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11000,
+      "finished_at": "2026-07-05T15:17:38Z",
+      "rows": 100,
+      "start": 10900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "POPULATED_AUM": 5,
+        "POPULATED_MARKET_CAP": 93
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11100,
+      "finished_at": "2026-07-05T15:17:41Z",
+      "rows": 100,
+      "start": 11000,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11200,
+      "finished_at": "2026-07-05T15:17:44Z",
+      "rows": 100,
+      "start": 11100,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11300,
+      "finished_at": "2026-07-05T15:17:48Z",
+      "rows": 100,
+      "start": 11200,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11400,
+      "finished_at": "2026-07-05T15:17:51Z",
+      "rows": 100,
+      "start": 11300,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11500,
+      "finished_at": "2026-07-05T15:17:54Z",
+      "rows": 100,
+      "start": 11400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11600,
+      "finished_at": "2026-07-05T15:17:57Z",
+      "rows": 100,
+      "start": 11500,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11700,
+      "finished_at": "2026-07-05T15:18:00Z",
+      "rows": 100,
+      "start": 11600,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11800,
+      "finished_at": "2026-07-05T15:18:04Z",
+      "rows": 100,
+      "start": 11700,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 11900,
+      "finished_at": "2026-07-05T15:18:07Z",
+      "rows": 100,
+      "start": 11800,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12000,
+      "finished_at": "2026-07-05T15:18:10Z",
+      "rows": 100,
+      "start": 11900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 96
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12100,
+      "finished_at": "2026-07-05T15:18:13Z",
+      "rows": 100,
+      "start": 12000,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12200,
+      "finished_at": "2026-07-05T15:18:16Z",
+      "rows": 100,
+      "start": 12100,
+      "status_counts": {
+        "MISSING_AUM": 12,
+        "POPULATED_AUM": 85,
+        "POPULATED_MARKET_CAP": 3
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12300,
+      "finished_at": "2026-07-05T15:18:19Z",
+      "rows": 100,
+      "start": 12200,
+      "status_counts": {
+        "MISSING_AUM": 19,
+        "POPULATED_AUM": 81
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12400,
+      "finished_at": "2026-07-05T15:18:22Z",
+      "rows": 100,
+      "start": 12300,
+      "status_counts": {
+        "MISSING_AUM": 16,
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_AUM": 35,
+        "POPULATED_MARKET_CAP": 46
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12500,
+      "finished_at": "2026-07-05T15:18:26Z",
+      "rows": 100,
+      "start": 12400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_MARKET_CAP": 95
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12600,
+      "finished_at": "2026-07-05T15:18:29Z",
+      "rows": 100,
+      "start": 12500,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 5,
+        "POPULATED_MARKET_CAP": 95
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12700,
+      "finished_at": "2026-07-05T15:18:32Z",
+      "rows": 100,
+      "start": 12600,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_MARKET_CAP": 96
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12800,
+      "finished_at": "2026-07-05T15:18:36Z",
+      "rows": 100,
+      "start": 12700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 5,
+        "POPULATED_MARKET_CAP": 94
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 12900,
+      "finished_at": "2026-07-05T15:18:39Z",
+      "rows": 100,
+      "start": 12800,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13000,
+      "finished_at": "2026-07-05T15:18:42Z",
+      "rows": 100,
+      "start": 12900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 8,
+        "NO_YAHOO_QUOTE": 35,
+        "POPULATED_MARKET_CAP": 57
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13100,
+      "finished_at": "2026-07-05T15:18:45Z",
+      "rows": 100,
+      "start": 13000,
+      "status_counts": {
+        "MISSING_AUM": 5,
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 11,
+        "POPULATED_AUM": 68,
+        "POPULATED_MARKET_CAP": 15
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13200,
+      "finished_at": "2026-07-05T15:18:48Z",
+      "rows": 100,
+      "start": 13100,
+      "status_counts": {
+        "MISSING_AUM": 17,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 82
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13300,
+      "finished_at": "2026-07-05T15:18:52Z",
+      "rows": 100,
+      "start": 13200,
+      "status_counts": {
+        "MISSING_AUM": 42,
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_AUM": 55
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13400,
+      "finished_at": "2026-07-05T15:18:55Z",
+      "rows": 100,
+      "start": 13300,
+      "status_counts": {
+        "MISSING_AUM": 27,
+        "POPULATED_AUM": 73
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13500,
+      "finished_at": "2026-07-05T15:18:58Z",
+      "rows": 100,
+      "start": 13400,
+      "status_counts": {
+        "MISSING_AUM": 27,
+        "POPULATED_AUM": 73
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13600,
+      "finished_at": "2026-07-05T15:19:01Z",
+      "rows": 100,
+      "start": 13500,
+      "status_counts": {
+        "MISSING_AUM": 26,
+        "POPULATED_AUM": 74
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13700,
+      "finished_at": "2026-07-05T15:19:05Z",
+      "rows": 100,
+      "start": 13600,
+      "status_counts": {
+        "MISSING_AUM": 29,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 70
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13800,
+      "finished_at": "2026-07-05T15:19:08Z",
+      "rows": 100,
+      "start": 13700,
+      "status_counts": {
+        "MISSING_AUM": 31,
+        "POPULATED_AUM": 69
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 13900,
+      "finished_at": "2026-07-05T15:19:11Z",
+      "rows": 100,
+      "start": 13800,
+      "status_counts": {
+        "MISSING_AUM": 31,
+        "POPULATED_AUM": 69
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14000,
+      "finished_at": "2026-07-05T15:19:14Z",
+      "rows": 100,
+      "start": 13900,
+      "status_counts": {
+        "MISSING_AUM": 28,
+        "POPULATED_AUM": 72
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14100,
+      "finished_at": "2026-07-05T15:19:17Z",
+      "rows": 100,
+      "start": 14000,
+      "status_counts": {
+        "MISSING_AUM": 27,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 72
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14200,
+      "finished_at": "2026-07-05T15:19:21Z",
+      "rows": 100,
+      "start": 14100,
+      "status_counts": {
+        "MISSING_AUM": 38,
+        "POPULATED_AUM": 62
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14300,
+      "finished_at": "2026-07-05T15:19:24Z",
+      "rows": 100,
+      "start": 14200,
+      "status_counts": {
+        "MISSING_AUM": 39,
+        "POPULATED_AUM": 61
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14400,
+      "finished_at": "2026-07-05T15:19:28Z",
+      "rows": 100,
+      "start": 14300,
+      "status_counts": {
+        "MISSING_AUM": 36,
+        "POPULATED_AUM": 64
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14500,
+      "finished_at": "2026-07-05T15:19:31Z",
+      "rows": 100,
+      "start": 14400,
+      "status_counts": {
+        "MISSING_AUM": 33,
+        "POPULATED_AUM": 67
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14600,
+      "finished_at": "2026-07-05T15:19:34Z",
+      "rows": 100,
+      "start": 14500,
+      "status_counts": {
+        "MISSING_AUM": 50,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 49
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14700,
+      "finished_at": "2026-07-05T15:19:38Z",
+      "rows": 100,
+      "start": 14600,
+      "status_counts": {
+        "MISSING_AUM": 41,
+        "POPULATED_AUM": 59
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14800,
+      "finished_at": "2026-07-05T15:19:41Z",
+      "rows": 100,
+      "start": 14700,
+      "status_counts": {
+        "MISSING_AUM": 45,
+        "POPULATED_AUM": 55
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 14900,
+      "finished_at": "2026-07-05T15:19:44Z",
+      "rows": 100,
+      "start": 14800,
+      "status_counts": {
+        "MISSING_AUM": 51,
+        "POPULATED_AUM": 49
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15000,
+      "finished_at": "2026-07-05T15:19:47Z",
+      "rows": 100,
+      "start": 14900,
+      "status_counts": {
+        "MISSING_AUM": 41,
+        "POPULATED_AUM": 59
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15100,
+      "finished_at": "2026-07-05T15:19:50Z",
+      "rows": 100,
+      "start": 15000,
+      "status_counts": {
+        "MISSING_AUM": 36,
+        "POPULATED_AUM": 64
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15200,
+      "finished_at": "2026-07-05T15:19:53Z",
+      "rows": 100,
+      "start": 15100,
+      "status_counts": {
+        "MISSING_AUM": 31,
+        "POPULATED_AUM": 69
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15300,
+      "finished_at": "2026-07-05T15:19:56Z",
+      "rows": 100,
+      "start": 15200,
+      "status_counts": {
+        "MISSING_AUM": 33,
+        "POPULATED_AUM": 67
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15400,
+      "finished_at": "2026-07-05T15:19:59Z",
+      "rows": 100,
+      "start": 15300,
+      "status_counts": {
+        "MISSING_AUM": 29,
+        "POPULATED_AUM": 71
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15500,
+      "finished_at": "2026-07-05T15:20:02Z",
+      "rows": 100,
+      "start": 15400,
+      "status_counts": {
+        "MISSING_AUM": 36,
+        "POPULATED_AUM": 64
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15600,
+      "finished_at": "2026-07-05T15:20:05Z",
+      "rows": 100,
+      "start": 15500,
+      "status_counts": {
+        "MISSING_AUM": 44,
+        "POPULATED_AUM": 56
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15700,
+      "finished_at": "2026-07-05T15:20:09Z",
+      "rows": 100,
+      "start": 15600,
+      "status_counts": {
+        "MISSING_AUM": 37,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 62
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15800,
+      "finished_at": "2026-07-05T15:20:12Z",
+      "rows": 100,
+      "start": 15700,
+      "status_counts": {
+        "MISSING_AUM": 32,
+        "POPULATED_AUM": 68
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 15900,
+      "finished_at": "2026-07-05T15:20:15Z",
+      "rows": 100,
+      "start": 15800,
+      "status_counts": {
+        "MISSING_AUM": 37,
+        "POPULATED_AUM": 63
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16000,
+      "finished_at": "2026-07-05T15:20:18Z",
+      "rows": 100,
+      "start": 15900,
+      "status_counts": {
+        "MISSING_AUM": 42,
+        "POPULATED_AUM": 58
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16100,
+      "finished_at": "2026-07-05T15:20:21Z",
+      "rows": 100,
+      "start": 16000,
+      "status_counts": {
+        "MISSING_AUM": 44,
+        "POPULATED_AUM": 56
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16200,
+      "finished_at": "2026-07-05T15:20:25Z",
+      "rows": 100,
+      "start": 16100,
+      "status_counts": {
+        "MISSING_AUM": 44,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 55
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16300,
+      "finished_at": "2026-07-05T15:20:28Z",
+      "rows": 100,
+      "start": 16200,
+      "status_counts": {
+        "MISSING_AUM": 44,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 55
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16400,
+      "finished_at": "2026-07-05T15:20:31Z",
+      "rows": 100,
+      "start": 16300,
+      "status_counts": {
+        "MISSING_AUM": 56,
+        "POPULATED_AUM": 44
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16500,
+      "finished_at": "2026-07-05T15:20:35Z",
+      "rows": 100,
+      "start": 16400,
+      "status_counts": {
+        "MISSING_AUM": 32,
+        "POPULATED_AUM": 68
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16600,
+      "finished_at": "2026-07-05T15:20:38Z",
+      "rows": 100,
+      "start": 16500,
+      "status_counts": {
+        "MISSING_AUM": 12,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 18,
+        "POPULATED_MARKET_CAP": 69
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16700,
+      "finished_at": "2026-07-05T15:20:41Z",
+      "rows": 100,
+      "start": 16600,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 10,
+        "NO_YAHOO_QUOTE": 4,
+        "POPULATED_MARKET_CAP": 86
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16800,
+      "finished_at": "2026-07-05T15:20:44Z",
+      "rows": 100,
+      "start": 16700,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 4,
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_MARKET_CAP": 93
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 16900,
+      "finished_at": "2026-07-05T15:20:48Z",
+      "rows": 100,
+      "start": 16800,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 4,
+        "POPULATED_MARKET_CAP": 95
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17000,
+      "finished_at": "2026-07-05T15:20:51Z",
+      "rows": 100,
+      "start": 16900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 98
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17100,
+      "finished_at": "2026-07-05T15:20:54Z",
+      "rows": 100,
+      "start": 17000,
+      "status_counts": {
+        "MISSING_AUM": 1,
+        "MISSING_MARKET_CAP": 3,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_AUM": 6,
+        "POPULATED_MARKET_CAP": 89
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17200,
+      "finished_at": "2026-07-05T15:20:57Z",
+      "rows": 100,
+      "start": 17100,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "NO_YAHOO_QUOTE": 9,
+        "POPULATED_AUM": 4,
+        "POPULATED_MARKET_CAP": 86
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17300,
+      "finished_at": "2026-07-05T15:21:00Z",
+      "rows": 100,
+      "start": 17200,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 17,
+        "POPULATED_MARKET_CAP": 83
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17400,
+      "finished_at": "2026-07-05T15:21:04Z",
+      "rows": 100,
+      "start": 17300,
+      "status_counts": {
+        "MISSING_AUM": 1,
+        "MISSING_MARKET_CAP": 3,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 95
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17500,
+      "finished_at": "2026-07-05T15:21:07Z",
+      "rows": 100,
+      "start": 17400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 4,
+        "POPULATED_AUM": 1,
+        "POPULATED_MARKET_CAP": 95
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17600,
+      "finished_at": "2026-07-05T15:21:10Z",
+      "rows": 100,
+      "start": 17500,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17700,
+      "finished_at": "2026-07-05T15:21:14Z",
+      "rows": 100,
+      "start": 17600,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17800,
+      "finished_at": "2026-07-05T15:21:17Z",
+      "rows": 100,
+      "start": 17700,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 17900,
+      "finished_at": "2026-07-05T15:21:20Z",
+      "rows": 100,
+      "start": 17800,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18000,
+      "finished_at": "2026-07-05T15:21:23Z",
+      "rows": 100,
+      "start": 17900,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18100,
+      "finished_at": "2026-07-05T15:21:26Z",
+      "rows": 100,
+      "start": 18000,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18200,
+      "finished_at": "2026-07-05T15:21:30Z",
+      "rows": 100,
+      "start": 18100,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18300,
+      "finished_at": "2026-07-05T15:21:33Z",
+      "rows": 100,
+      "start": 18200,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18400,
+      "finished_at": "2026-07-05T15:21:37Z",
+      "rows": 100,
+      "start": 18300,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18500,
+      "finished_at": "2026-07-05T15:21:40Z",
+      "rows": 100,
+      "start": 18400,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18600,
+      "finished_at": "2026-07-05T15:21:43Z",
+      "rows": 100,
+      "start": 18500,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18700,
+      "finished_at": "2026-07-05T15:21:46Z",
+      "rows": 100,
+      "start": 18600,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18800,
+      "finished_at": "2026-07-05T15:21:50Z",
+      "rows": 100,
+      "start": 18700,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 18900,
+      "finished_at": "2026-07-05T15:21:53Z",
+      "rows": 100,
+      "start": 18800,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19000,
+      "finished_at": "2026-07-05T15:21:56Z",
+      "rows": 100,
+      "start": 18900,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 2,
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 97
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19100,
+      "finished_at": "2026-07-05T15:21:58Z",
+      "rows": 100,
+      "start": 19000,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19200,
+      "finished_at": "2026-07-05T15:22:02Z",
+      "rows": 100,
+      "start": 19100,
+      "status_counts": {
+        "NO_YAHOO_QUOTE": 1,
+        "POPULATED_MARKET_CAP": 99
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19300,
+      "finished_at": "2026-07-05T15:22:05Z",
+      "rows": 100,
+      "start": 19200,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19400,
+      "finished_at": "2026-07-05T15:22:08Z",
+      "rows": 100,
+      "start": 19300,
+      "status_counts": {
+        "POPULATED_MARKET_CAP": 100
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19500,
+      "finished_at": "2026-07-05T15:22:11Z",
+      "rows": 100,
+      "start": 19400,
+      "status_counts": {
+        "MISSING_AUM": 10,
+        "POPULATED_AUM": 72,
+        "POPULATED_MARKET_CAP": 18
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19600,
+      "finished_at": "2026-07-05T15:22:14Z",
+      "rows": 100,
+      "start": 19500,
+      "status_counts": {
+        "MISSING_AUM": 13,
+        "POPULATED_AUM": 64,
+        "POPULATED_MARKET_CAP": 23
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19700,
+      "finished_at": "2026-07-05T15:22:18Z",
+      "rows": 100,
+      "start": 19600,
+      "status_counts": {
+        "MISSING_MARKET_CAP": 4,
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_AUM": 2,
+        "POPULATED_MARKET_CAP": 91
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19800,
+      "finished_at": "2026-07-05T15:22:20Z",
+      "rows": 100,
+      "start": 19700,
+      "status_counts": {
+        "MISSING_AUM": 40,
+        "NO_YAHOO_QUOTE": 4,
+        "POPULATED_AUM": 55,
+        "POPULATED_MARKET_CAP": 1
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 19900,
+      "finished_at": "2026-07-05T15:22:24Z",
+      "rows": 100,
+      "start": 19800,
+      "status_counts": {
+        "MISSING_AUM": 34,
+        "NO_YAHOO_QUOTE": 5,
+        "POPULATED_AUM": 61
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 20000,
+      "finished_at": "2026-07-05T15:22:26Z",
+      "rows": 100,
+      "start": 19900,
+      "status_counts": {
+        "MISSING_AUM": 42,
+        "NO_YAHOO_QUOTE": 2,
+        "POPULATED_AUM": 56
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 20100,
+      "finished_at": "2026-07-05T15:22:29Z",
+      "rows": 100,
+      "start": 20000,
+      "status_counts": {
+        "MISSING_AUM": 40,
+        "NO_YAHOO_QUOTE": 5,
+        "POPULATED_AUM": 55
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 20200,
+      "finished_at": "2026-07-05T15:22:33Z",
+      "rows": 100,
+      "start": 20100,
+      "status_counts": {
+        "MISSING_AUM": 51,
+        "NO_YAHOO_QUOTE": 6,
+        "POPULATED_AUM": 43
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 20300,
+      "finished_at": "2026-07-05T15:22:36Z",
+      "rows": 100,
+      "start": 20200,
+      "status_counts": {
+        "MISSING_AUM": 55,
+        "NO_YAHOO_QUOTE": 7,
+        "POPULATED_AUM": 38
+      },
+      "unique_symbols": 100
+    },
+    {
+      "end": 20344,
+      "finished_at": "2026-07-05T15:22:39Z",
+      "rows": 44,
+      "start": 20300,
+      "status_counts": {
+        "MISSING_AUM": 23,
+        "NO_YAHOO_QUOTE": 3,
+        "POPULATED_AUM": 18
+      },
+      "unique_symbols": 44
+    }
+  ],
+  "next_index": 20344,
+  "started_at": "2026-07-05T15:11:39Z",
+  "updated_at": "2026-07-05T15:22:39Z"
+}
