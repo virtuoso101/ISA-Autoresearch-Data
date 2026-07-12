@@ -15,9 +15,9 @@ from typing import Iterable, List
 
 ROOT = Path(__file__).resolve().parents[1]
 REPO_CSV = ROOT / "data" / "universe.csv"
-LOCAL_CSV = Path("/Users/vivian/ISA-Autoresearch/universe.csv")
+LOCAL_CSV = Path.home() / "ISA-Autoresearch" / "universe.csv"
 STATE_FILE = ROOT / "docs" / "universe_static_population_state.json"
-BACKUP_DIR = Path("/Users/vivian/ISA-Autoresearch/universe-backups")
+BACKUP_DIR = Path.home() / "ISA-Autoresearch" / "universe-backups"
 
 SOURCE_HMRC_RECOGNISED_EXCHANGES = (
     "GOV.UK recognised stock exchanges / designated countries; operator exchange-id mapping; "

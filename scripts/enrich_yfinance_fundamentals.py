@@ -26,9 +26,9 @@ from yfinance.data import YfData
 
 ROOT = Path(__file__).resolve().parents[1]
 REPO_CSV = ROOT / "data" / "universe.csv"
-LOCAL_CSV = Path("/Users/vivian/ISA-Autoresearch/universe.csv")
+LOCAL_CSV = Path.home() / "ISA-Autoresearch" / "universe.csv"
 STATE_FILE = ROOT / "docs" / "universe_yfinance_fundamentals_state.json"
-BACKUP_DIR = Path("/Users/vivian/ISA-Autoresearch/universe-backups")
+BACKUP_DIR = Path.home() / "ISA-Autoresearch" / "universe-backups"
 QUOTE_URL = "https://query1.finance.yahoo.com/v7/finance/quote"
 
 ADDED_COLUMNS = [
